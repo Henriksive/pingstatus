@@ -1,0 +1,26 @@
+.Website-container {
+	display: flex;
+	flex-wrap: wrap;
+	background-color: 545E75;
+}
+
+.Website-item {
+	background-color: cadetblue;
+	width: 50%;
+	color: whitesmoke;
+	font-weight: bold;
+	font-size: 30px;
+}
+
+.green {
+	background-color: #3F826D;
+}
+
+.red {
+	background-color: #A44A3F;
+}
+
+.Name-container {
+	word-wrap: break-word;
+	padding: 50px 50px;
+}
